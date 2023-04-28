@@ -1,0 +1,8 @@
+{
+	"token": "MTEwMTQ1NTgwMDEwMDIwNDY1NQ.GKxXLg.GyOhn-yTG9jCwZER8tirSxtIljrxa22Ncu7BXw"
+}
+
+
+const { token } = require('./config.json');
+
+console.log(token);
